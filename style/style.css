@@ -17,8 +17,7 @@ html{
 .main {
 height: 100%;
 display:grid;
-grid-template-rows: 10% 80% 7%;
-
+grid-template-rows: 10% 82% 7%;
 }
 
 .container{
@@ -29,7 +28,7 @@ grid-template-rows: 10% 80% 7%;
 
 aside{
     display: grid;
-    grid-template-rows: 10% 87%;
+    grid-template-rows: 10% 90%;
     border-right: 2px solid rgba(233,235,237);
     height: 100%;
 }
